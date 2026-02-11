@@ -1,4 +1,4 @@
-# Fine-tuned-Small-Language-Models-for-Summarization
+# KD-efficient-text-summarization
 
 ## Features
 - Computational Resource Optimization (LoRA + 4-bit quantization)
